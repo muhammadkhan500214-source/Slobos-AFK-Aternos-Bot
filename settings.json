@@ -1,14 +1,14 @@
 {
-  "name": "AFK Bot",
+  "name": "sensvos gud boi",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "sensvosgudboi",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
-    "version": "",
+    "ip": "legendgng.aternos.me:15657",
+    "port": 15657,
+    "version": "1.21.11",
     "try-creative": false
   },
   "position": {
@@ -31,9 +31,9 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "sup gng",
+        "idk why im here",
+        "i will destroy humanity soon"
       ]
     },
     "chat-log": true,
